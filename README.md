@@ -6,7 +6,7 @@ Python | Machine Learning | Deep Learning | Generative AI | Computer Vision
 
 Building practical AI applications from model development to deployment.
 
-GitHub • Fracture Detection AI
+GitHub • LinkedIn • Live Demo
 
 </div>
 
@@ -14,7 +14,7 @@ About Me
 
 I’m a developer focused on Python, Machine Learning, Deep Learning, Generative AI, and Computer Vision.
 
-I enjoy turning ideas into working software — from preparing data and training models to evaluating performance, building application interfaces, and deploying usable ML systems.
+I enjoy turning ideas into working software — from data preparation and model training to evaluation, application development, authentication, and deployment.
 
 Currently, I’m focused on strengthening my skills in AI engineering, intelligent applications, model evaluation, deployment, and practical software development.
 
@@ -61,7 +61,7 @@ Live Demo • Repository
 
 MediScan AI
 
-AI-focused project exploring intelligent medical/health-related application concepts.
+AI-focused project exploring practical intelligent application concepts.
 
 Focus
 
@@ -69,7 +69,7 @@ Artificial Intelligence
 
 Machine Learning
 
-Practical application development
+Application Development
 
 Repository
 
@@ -81,7 +81,7 @@ Repository
 
 Image Colorization Project
 
-Computer vision project focused on automatically adding color information to images.
+Computer vision project focused on adding color information to images.
 
 Focus
 
@@ -98,7 +98,7 @@ Repository
 
 Daily Problems
 
-A growing collection of programming and problem-solving practice.
+Programming and problem-solving practice covering algorithms and data structures.
 
 Focus
 
@@ -141,35 +141,24 @@ Application / Development
 Engineering Focus
 
 Machine Learning
-├── Data Preparation
-├── Model Training
-├── Transfer Learning
-├── Model Evaluation
-└── Error Analysis
+
+Data Preparation → Model Training → Transfer Learning → Model Evaluation → Error Analysis
 
 AI Applications
-├── Computer Vision
-├── Generative AI
-├── Streamlit Interfaces
-├── Authentication
-└── Deployment
+
+Computer Vision → Generative AI → Streamlit Interfaces → Authentication → Deployment
 
 Software Development
-├── Python
-├── Git / GitHub
-├── APIs
-└── Practical Problem Solving
+
+Python → Git / GitHub → APIs → Practical Problem Solving
 
 GitHub Activity
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vedant-4009&show_icons=true&hide_border=true&rank_icon=github" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vedant-4009&layout=compact&hide_border=true" height="165"/>
-</p>
+This profile uses GitHub's native contribution graph to show development activity.
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=vedant-4009&hide_border=true" />
-</p>
+Profile: github.com/vedant-4009
+
+Repositories: View all repositories
 
 Current Direction
 
@@ -178,6 +167,11 @@ I’m working toward becoming a stronger AI / Machine Learning engineer by build
 Models + Evaluation + Applications + Deployment
 
 The goal is not only to train models, but to turn them into reliable, usable software.
+
+Connect
+
+GitHub: https://github.com/vedant-4009
+Live Project: https://fracture-detection-cnn-p7iepl62zsoixrgesfmg7n.streamlit.app/
 
 <div align="center">
 

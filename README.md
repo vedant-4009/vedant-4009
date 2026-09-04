@@ -1,89 +1,144 @@
 <div align="center">
 
-Vedant Shinde
+VEDANT SHINDE
+
+AI / Machine Learning Engineer in Progress
 
 Python • Machine Learning • Deep Learning • Generative AI • Computer Vision
-
-Building practical AI systems from model development to deployment.
 
 
 
 
 </div>
 
-About Me
+<div align="center">
 
-I’m a developer focused on Machine Learning, Deep Learning, Generative AI, and Computer Vision, with a strong interest in turning ideas into working software.
+BUILDING AI SYSTEMS — NOT JUST NOTEBOOKS
 
-My projects span the full workflow:
+</div>
+
+<table>
+<tr>
+<td width="33%" align="center">
+
+MODEL
+
+Training
+Transfer Learning
+Evaluation
+Error Analysis
+
+</td>
+<td width="33%" align="center">
+
+PRODUCT
+
+Computer Vision
+AI Applications
+User Interfaces
+Authentication
+
+</td>
+<td width="33%" align="center">
+
+DELIVERY
+
+Streamlit
+Git / GitHub
+Deployment
+Production Thinking
+
+</td>
+</tr>
+</table>
+
+PROFILE
+
+I build practical AI and machine-learning applications with a focus on taking ideas from data and models to usable software.
+
+My current focus is on deep learning, computer vision, Generative AI, model evaluation, and deployment.
 
 Data → Model → Evaluation → Application → Deployment
 
-I’m currently strengthening my skills in AI engineering, intelligent applications, model evaluation, and production-oriented development.
+FEATURED WORK
 
-What I’m Building
+<table>
+<tr>
 
-Practical ML and computer-vision applications
-
-End-to-end AI workflows from training to deployment
-
-Intelligent applications with clean user interfaces
-
-AI systems that combine models with real application logic
-
-Better generalization, explainability, and engineering quality
-
-Featured Projects
-
-Project
-
-What it does
-
-Stack
+<td width="50%" valign="top">
 
 Fracture Detection AI
 
-Bone X-ray classification with a public Streamlit application, Supabase authentication, and MobileNetV2 transfer learning
+Computer Vision • Deep Learning • Deployment
 
-Python • TensorFlow • Keras • MobileNetV2 • Streamlit • Supabase
+Bone X-ray image classification using MobileNetV2 with Transfer Learning + Fine-Tuning.
+
+73.50% test accuracy
+78.06% fracture recall
+600 held-out test images
+Supabase multi-user authentication
+Streamlit public deployment
+
+Live Demo ↗ · Source ↗
+
+</td>
+
+<td width="50%" valign="top">
 
 MediScan AI
 
-AI-focused medical X-ray application exploring intelligent application concepts
+Artificial Intelligence • Application Development
 
-AI • ML • JavaScript
+An AI-focused medical X-ray application exploring practical intelligent application concepts.
+
+Focus
+
+AI • ML • Intelligent Applications
+
+Repository ↗
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
 
 Image Colorization Project
 
-Computer-vision project for converting grayscale images into colorized images
+Computer Vision • Image Processing
+
+A deep-learning project for converting grayscale images into colorized images.
+
+Focus
 
 Deep Learning • Computer Vision
 
+Repository ↗
+
+</td>
+
+<td width="50%" valign="top">
+
 Daily Problems
 
-Programming and problem-solving practice focused on algorithms and data structures
+Python • DSA • Problem Solving
+
+A programming practice repository focused on algorithms, data structures, and consistent problem solving.
+
+Focus
 
 Python • DSA
 
-Fracture Detection AI — Highlights
+Repository ↗
 
-MobileNetV2 with Transfer Learning + Fine-Tuning
+</td>
 
-Binary classification: Fractured / Not Fractured
+</tr>
+</table>
 
-73.50% test accuracy
-
-78.06% fracture recall
-
-600 held-out test images
-
-Supabase-based multi-user signup and login
-
-Public deployment with Streamlit Community Cloud
-
-Live Demo →
-
-Technologies & Tools
+CORE STACK
 
 Programming
 
@@ -91,7 +146,7 @@ Programming
 
 
 
-Machine Learning & AI
+AI / ML
 
 
 
@@ -99,7 +154,7 @@ Machine Learning & AI
 
 
 
-Application & Development
+Application / Dev
 
 
 
@@ -107,44 +162,114 @@ Application & Development
 
 
 
-Engineering Focus
+ENGINEERING FOCUS
 
-Area
+<table>
+<tr>
+<td valign="top" width="50%">
 
-Focus
+01 — MACHINE LEARNING
 
-Machine Learning
+Data Preparation
+↓
+Model Training
+↓
+Transfer Learning
+↓
+Evaluation
+↓
+Error Analysis
 
-Data Preparation • Model Training • Transfer Learning • Evaluation • Error Analysis
+</td>
+
+<td valign="top" width="50%">
+
+02 — AI APPLICATIONS
 
 Computer Vision
+↓
+Model Integration
+↓
+UI / UX
+↓
+Authentication
+↓
+Deployment
 
-Image Classification • Image Processing • Medical Imaging
+</td>
+</tr>
 
-AI Applications
+<tr>
+<td valign="top" width="50%">
 
-Streamlit • Authentication • Deployment • Intelligent Interfaces
+03 — SOFTWARE
 
-Software Development
+Python
+Git / GitHub
+APIs
+Problem Solving
 
-Python • Git/GitHub • APIs • Problem Solving
+</td>
 
-Current Direction
+<td valign="top" width="50%">
 
-I’m working toward becoming a stronger AI / Machine Learning engineer by building projects that connect:
+04 — CURRENT DIRECTION
+
+Deep Learning
+Generative AI
+AI Engineering
+Production-Oriented Development
+
+</td>
+</tr>
+</table>
+
+FRACTURE DETECTION AI — AT A GLANCE
+
+<table>
+<tr>
+<td align="center"><strong>73.50%</strong><br/>Test Accuracy</td>
+<td align="center"><strong>78.06%</strong><br/>Fracture Recall</td>
+<td align="center"><strong>600</strong><br/>Test Images</td>
+<td align="center"><strong>224×224</strong><br/>Input Resolution</td>
+</tr>
+</table>
+
+Architecture: MobileNetV2
+Training: Transfer Learning + Fine-Tuning
+Task: Binary X-ray Classification
+Access: Public Streamlit Application + Supabase Authentication
+
+Explore the project ↗
+
+CURRENT DIRECTION
+
+I’m working toward stronger AI / Machine Learning engineering through projects that connect:
 
 Models + Evaluation + Applications + Deployment
 
-My goal is to go beyond model training and build AI systems that are usable, measurable, and deployable.
+The goal is to build systems that are usable, measurable, and deployable — not just trained models.
 
-GitHub
+EXPLORE
 
 
 
-Explore my repositories, pinned projects, and contribution activity directly on GitHub.
+
+
+Repositories
+
+View all projects →
+
+Featured Project
+
+Fracture Detection AI →
+
+Live Application
+
+Open Fracture Detection AI →
 
 <div align="center">
 
-Build • Evaluate • Deploy • Improve
+BUILD • EVALUATE • DEPLOY • IMPROVE
 
 </div>

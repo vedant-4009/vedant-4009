@@ -1,12 +1,5 @@
 <div align="center">
-
-<img src="./assets/profile-banner.svg" alt="Vedant Shinde profile banner" width="100%"/>
-
-<br/>
-
-
-
-
+  <img src="./assets/profile-banner.png" alt="Vedant Shinde profile banner" width="100%"/>
 </div>
 
 <table>

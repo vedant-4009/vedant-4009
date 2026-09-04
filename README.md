@@ -2,117 +2,86 @@
 
 Vedant Shinde
 
-Python | Machine Learning | Deep Learning | Generative AI | Computer Vision
+Python • Machine Learning • Deep Learning • Generative AI • Computer Vision
 
-Building practical AI applications from model development to deployment.
+Building practical AI systems from model development to deployment.
 
-GitHub • LinkedIn • Live Demo
+
+
 
 </div>
 
 About Me
 
-I’m a developer focused on Python, Machine Learning, Deep Learning, Generative AI, and Computer Vision.
+I’m a developer focused on Machine Learning, Deep Learning, Generative AI, and Computer Vision, with a strong interest in turning ideas into working software.
 
-I enjoy turning ideas into working software — from data preparation and model training to evaluation, application development, authentication, and deployment.
+My projects span the full workflow:
 
-Currently, I’m focused on strengthening my skills in AI engineering, intelligent applications, model evaluation, deployment, and practical software development.
+Data → Model → Evaluation → Application → Deployment
+
+I’m currently strengthening my skills in AI engineering, intelligent applications, model evaluation, and production-oriented development.
 
 What I’m Building
 
-Practical machine learning and computer vision applications
+Practical ML and computer-vision applications
 
-AI-powered applications with usable interfaces
+End-to-end AI workflows from training to deployment
 
-End-to-end ML workflows from training to deployment
+Intelligent applications with clean user interfaces
 
-Generative AI and intelligent application experiments
+AI systems that combine models with real application logic
 
-Better model evaluation, generalization, and explainability
+Better generalization, explainability, and engineering quality
 
-Featured AI / ML Projects
+Featured Projects
 
-<table>
-<tr>
-<td width="50%" valign="top">
+Project
+
+What it does
+
+Stack
 
 Fracture Detection AI
 
-AI-assisted bone X-ray image classification using MobileNetV2, TensorFlow, Streamlit, and Supabase.
+Bone X-ray classification with a public Streamlit application, Supabase authentication, and MobileNetV2 transfer learning
 
-Highlights
+Python • TensorFlow • Keras • MobileNetV2 • Streamlit • Supabase
 
-Transfer Learning + Fine-Tuning
+MediScan AI
 
-Fractured / Not Fractured classification
+AI-focused medical X-ray application exploring intelligent application concepts
+
+AI • ML • JavaScript
+
+Image Colorization Project
+
+Computer-vision project for converting grayscale images into colorized images
+
+Deep Learning • Computer Vision
+
+Daily Problems
+
+Programming and problem-solving practice focused on algorithms and data structures
+
+Python • DSA
+
+Fracture Detection AI — Highlights
+
+MobileNetV2 with Transfer Learning + Fine-Tuning
+
+Binary classification: Fractured / Not Fractured
 
 73.50% test accuracy
 
 78.06% fracture recall
 
-Multi-user authentication
+600 held-out test images
 
-Public Streamlit deployment
+Supabase-based multi-user signup and login
 
-Live Demo • Repository
+Public deployment with Streamlit Community Cloud
 
-</td>
-<td width="50%" valign="top">
-
-MediScan AI
-
-AI-focused project exploring practical intelligent application concepts.
-
-Focus
-
-Artificial Intelligence
-
-Machine Learning
-
-Application Development
-
-Repository
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-Image Colorization Project
-
-Computer vision project focused on adding color information to images.
-
-Focus
-
-Computer Vision
-
-Image Processing
-
-Deep Learning
-
-Repository
-
-</td>
-<td width="50%" valign="top">
-
-Daily Problems
-
-Programming and problem-solving practice covering algorithms and data structures.
-
-Focus
-
-Python
-
-Problem Solving
-
-DSA Practice
-
-Repository
-
-</td>
-</tr>
-</table>
+Live Demo →
 
 Technologies & Tools
 
@@ -122,7 +91,7 @@ Programming
 
 
 
-AI / Machine Learning
+Machine Learning & AI
 
 
 
@@ -130,7 +99,7 @@ AI / Machine Learning
 
 
 
-Application / Development
+Application & Development
 
 
 
@@ -140,41 +109,42 @@ Application / Development
 
 Engineering Focus
 
+Area
+
+Focus
+
 Machine Learning
 
-Data Preparation → Model Training → Transfer Learning → Model Evaluation → Error Analysis
+Data Preparation • Model Training • Transfer Learning • Evaluation • Error Analysis
+
+Computer Vision
+
+Image Classification • Image Processing • Medical Imaging
 
 AI Applications
 
-Computer Vision → Generative AI → Streamlit Interfaces → Authentication → Deployment
+Streamlit • Authentication • Deployment • Intelligent Interfaces
 
 Software Development
 
-Python → Git / GitHub → APIs → Practical Problem Solving
-
-GitHub Activity
-
-This profile uses GitHub's native contribution graph to show development activity.
-
-Profile: github.com/vedant-4009
-
-Repositories: View all repositories
+Python • Git/GitHub • APIs • Problem Solving
 
 Current Direction
 
-I’m working toward becoming a stronger AI / Machine Learning engineer by building projects that combine:
+I’m working toward becoming a stronger AI / Machine Learning engineer by building projects that connect:
 
 Models + Evaluation + Applications + Deployment
 
-The goal is not only to train models, but to turn them into reliable, usable software.
+My goal is to go beyond model training and build AI systems that are usable, measurable, and deployable.
 
-Connect
+GitHub
 
-GitHub: https://github.com/vedant-4009
-Live Project: https://fracture-detection-cnn-p7iepl62zsoixrgesfmg7n.streamlit.app/
+
+
+Explore my repositories, pinned projects, and contribution activity directly on GitHub.
 
 <div align="center">
 
-Build. Evaluate. Deploy. Improve.
+Build • Evaluate • Deploy • Improve
 
 </div>

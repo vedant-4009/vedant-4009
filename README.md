@@ -1,85 +1,186 @@
+<div align="center">
 
-<!--
-**vedant-4009/vedant-4009**# Hi, I'm Vedant Shinde 👋
+Vedant Shinde
 
-### AI/ML Developer | Python | Machine Learning | Generative AI
+Python | Machine Learning | Deep Learning | Generative AI | Computer Vision
 
-I build intelligent applications that turn data and AI models into practical solutions.
+Building practical AI applications from model development to deployment.
 
-Currently focused on strengthening my skills in **Machine Learning, Deep Learning, Computer Vision and Generative AI** while building hands-on projects.
+GitHub • Fracture Detection AI
 
----
+</div>
 
-## 🧠 What I Work With
+About Me
 
-- 🤖 Machine Learning & Deep Learning
-- 👁️ Computer Vision
-- 🧠 Generative AI & LLMs
-- 🐍 Python
-- 📊 Data Analysis & Model Development
-- 🌐 AI Application Development
+I’m a developer focused on Python, Machine Learning, Deep Learning, Generative AI, and Computer Vision.
 
----
+I enjoy turning ideas into working software — from preparing data and training models to evaluating performance, building application interfaces, and deploying usable ML systems.
 
-## 🚀 Featured Projects
+Currently, I’m focused on strengthening my skills in AI engineering, intelligent applications, model evaluation, deployment, and practical software development.
 
-### 🦴 Fracture Detection using CNNs
-A Computer Vision project that uses Convolutional Neural Networks to detect fractures from medical X-ray images.
+What I’m Building
 
-**Focus:** Deep Learning • CNN • Computer Vision • Medical AI
+Practical machine learning and computer vision applications
 
----
+AI-powered applications with usable interfaces
 
-### 🎨 Image Colorization
-An AI-based image colorization project that converts black-and-white images into colorized images.
+End-to-end ML workflows from training to deployment
 
-**Focus:** Deep Learning • Computer Vision • Image Processing
+Generative AI and intelligent application experiments
 
----
+Better model evaluation, generalization, and explainability
 
-### 🏥 MediScan AI
-An AI-powered medical X-ray diagnosis application designed to explore AI-assisted medical image analysis.
+Featured AI / ML Projects
 
-**Focus:** AI • Medical Imaging • Machine Learning
+<table>
+<tr>
+<td width="50%" valign="top">
 
----
+Fracture Detection AI
 
-## 🛠️ Tech Stack
+AI-assisted bone X-ray image classification using MobileNetV2, TensorFlow, Streamlit, and Supabase.
 
-### Languages
-Python • SQL • HTML • JavaScript
+Highlights
 
-### AI / ML
-Machine Learning • Deep Learning • CNN • Computer Vision • NLP
+Transfer Learning + Fine-Tuning
 
-### Tools & Platforms
-Git • GitHub • Jupyter Notebook • VS Code
+Fractured / Not Fractured classification
 
----
+73.50% test accuracy
 
-## 📚 Currently Learning
+78.06% fracture recall
 
-- Generative AI
-- Large Language Models
-- Retrieval-Augmented Generation (RAG)
-- Model Deployment
-- Building production-ready AI applications
+Multi-user authentication
 
----
+Public Streamlit deployment
 
-## 🎯 My Approach
+Live Demo • Repository
 
-```text
-Learn → Build → Experiment → Deploy → Improve is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+</td>
+<td width="50%" valign="top">
 
-Here are some ideas to get you started:
+MediScan AI
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+AI-focused project exploring intelligent medical/health-related application concepts.
+
+Focus
+
+Artificial Intelligence
+
+Machine Learning
+
+Practical application development
+
+Repository
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+Image Colorization Project
+
+Computer vision project focused on automatically adding color information to images.
+
+Focus
+
+Computer Vision
+
+Image Processing
+
+Deep Learning
+
+Repository
+
+</td>
+<td width="50%" valign="top">
+
+Daily Problems
+
+A growing collection of programming and problem-solving practice.
+
+Focus
+
+Python
+
+Problem Solving
+
+DSA Practice
+
+Repository
+
+</td>
+</tr>
+</table>
+
+Technologies & Tools
+
+Programming
+
+
+
+
+
+AI / Machine Learning
+
+
+
+
+
+
+
+Application / Development
+
+
+
+
+
+
+
+Engineering Focus
+
+Machine Learning
+├── Data Preparation
+├── Model Training
+├── Transfer Learning
+├── Model Evaluation
+└── Error Analysis
+
+AI Applications
+├── Computer Vision
+├── Generative AI
+├── Streamlit Interfaces
+├── Authentication
+└── Deployment
+
+Software Development
+├── Python
+├── Git / GitHub
+├── APIs
+└── Practical Problem Solving
+
+GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vedant-4009&show_icons=true&hide_border=true&rank_icon=github" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vedant-4009&layout=compact&hide_border=true" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=vedant-4009&hide_border=true" />
+</p>
+
+Current Direction
+
+I’m working toward becoming a stronger AI / Machine Learning engineer by building projects that combine:
+
+Models + Evaluation + Applications + Deployment
+
+The goal is not only to train models, but to turn them into reliable, usable software.
+
+<div align="center">
+
+Build. Evaluate. Deploy. Improve.
+
+</div>

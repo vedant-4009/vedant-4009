@@ -1,97 +1,64 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=260&section=header&text=VEDANT%20SHINDE&fontSize=60&fontAlignY=35&desc=AI%20%2F%20ML%20ENGINEER%20%20%E2%80%A2%20%20DATA%20SCIENCE%20%20%E2%80%A2%20%20DEEP%20LEARNING&descAlignY=58&animation=twinkling&fontColor=ffffff&color=0:111827,45:4c1d95,75:6d28d9,100:2563eb&stroke=8b5cf6&strokeWidth=1" width="100%" alt="Vedant Shinde live animated profile banner" />
+<img src="https://capsule-render.vercel.app/api?type=rect&height=185&section=header&text=Vedant%20Shinde&fontSize=46&fontColor=ffffff&fontAlignY=42&desc=AI%20%7C%20Machine%20Learning%20%7C%20Full-Stack%20Development&descAlignY=65&descSize=15&color=0:3155a6,100:6b2bb5&animation=twinkling" width="100%" alt="Vedant Shinde profile banner" />
 
-<h3>Building practical AI systems from data → models → applications → deployment</h3>
+<br>
 
-<p>
-  <a href="https://github.com/vedant-4009"><img src="https://img.shields.io/badge/GitHub-vedant--4009-181717?style=for-the-badge&logo=github" alt="GitHub" /></a>
-  <img src="https://komarev.com/ghpvc/?username=vedant-4009&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS" alt="Profile views" />
-</p>
+<a href="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=16&pause=900&color=38BDF8&center=true&vCenter=true&width=650&height=45&duration=55&lines=Developing+Intelligent+Applications;AI+%2F+Machine+Learning+Engineer;Building+End-to-End+Data+%26+AI+Projects;Hackathon+Builder+%7C+Problem+Solver&repeat=true">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=16&pause=900&color=38BDF8&center=true&vCenter=true&width=650&height=45&duration=55&lines=Developing+Intelligent+Applications;AI+%2F+Machine+Learning+Engineer;Building+End-to-End+Data+%26+AI+Projects;Hackathon+Builder+%7C+Problem+Solver&repeat=true" alt="Typing animation" />
+</a>
+
+<br>
+
+<a href="https://github.com/vedant-4009">
+  <img src="https://img.shields.io/badge/GITHUB-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+</a>
+<a href="https://github.com/vedant-4009?tab=repositories">
+  <img src="https://img.shields.io/badge/PROFILE-555555?style=flat-square&logo=github&logoColor=white" alt="Profile" />
+</a>
+<a href="mailto:vedant.shinde_24uml@sanjivani.edu.in">
+  <img src="https://img.shields.io/badge/EMAIL-555555?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+</a>
+<a href="https://github.com/vedant-4009?tab=projects">
+  <img src="https://img.shields.io/badge/PROJECTS-1683D8?style=flat-square&logo=github&logoColor=white" alt="Projects" />
+</a>
+<a href="mailto:vedant.shinde_24uml@sanjivani.edu.in?subject=Hello%20Vedant">
+  <img src="https://img.shields.io/badge/CONTACT-E74C3C?style=flat-square&logo=gmail&logoColor=white" alt="Contact" />
+</a>
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## 👋 About Me
 
-I'm **Vedant Shinde**, an AI/ML-focused developer interested in building useful, measurable, and deployable intelligent applications.
+I'm **Vedant Shinde**, an AI/ML-focused developer who enjoys turning ideas into practical, deployable applications.
 
 - 🤖 Machine Learning, Deep Learning & Computer Vision
 - 🧠 Transfer Learning, Model Training & Evaluation
-- 📊 Data Analysis and practical problem solving
-- 🚀 Streamlit, Supabase and AI application deployment
-- 💻 Python, SQL and Java
-- 🎯 Currently improving my skills in **AI Engineering and Generative AI**
-
-> **Build → Evaluate → Improve → Deploy**
+- 📊 Data Analysis, Visualization & Problem Solving
+- 🚀 Streamlit, Supabase & AI Application Deployment
+- 💻 Python, SQL & Java
+- 🎯 Currently focused on **AI Engineering and Generative AI**
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Skills & Technologies
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,sql,tensorflow,opencv,pytorch,sklearn,numpy,pandas,streamlit,supabase,git,github,vscode&perline=7" alt="Tech stack" />
+  <img src="https://skillicons.dev/icons?i=python,java,sql,tensorflow,pytorch,opencv,sklearn,numpy,pandas,streamlit,supabase,git,github,vscode&perline=7" alt="Skills and technologies" />
 </p>
 
 ---
 
-## ⭐ Featured Projects
+## 🚀 Featured Projects
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🦴 Fracture Detection AI
-
-**MobileNetV2 · TensorFlow · Streamlit · Supabase**
-
-AI-assisted bone X-ray classification system using transfer learning and fine-tuning, with authentication and deployment.
-
-**73.50% Test Accuracy**  
-**78.06% Fracture Recall**  
-**600 Held-out Test Images**
-
-<a href="https://github.com/vedant-4009/fracture-detection-cnn">View Repository →</a>
-
-</td>
-<td width="50%" valign="top">
-
-### 🏥 MediScan AI
-
-**AI · Machine Learning · JavaScript**
-
-Medical X-ray focused intelligent application exploring practical AI workflows and user-facing development.
-
-<a href="https://github.com/vedant-4009/mediscan-ai">View Repository →</a>
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🎨 Image Colorization
-
-**Deep Learning · Computer Vision**
-
-Project focused on converting grayscale images into colorized outputs using deep learning techniques.
-
-<a href="https://github.com/vedant-4009/Image-colorization-project">View Repository →</a>
-
-</td>
-<td width="50%" valign="top">
-
-### 📊 Customer Shopping Analysis
-
-**Python · Data Analysis · Visualization**
-
-Analysis of customer shopping behavior to discover patterns and useful business insights.
-
-<a href="https://github.com/vedant-4009/Customer-Shopping-Analysis">View Repository →</a>
-
-</td>
-</tr>
-</table>
+| Project | Description |
+|---|---|
+| 🦴 **Fracture Detection AI** | MobileNetV2 + TensorFlow + Streamlit + Supabase based X-ray fracture classification system. |
+| 🏥 **MediScan AI** | AI/ML application focused on practical medical X-ray workflows and user-facing development. |
+| 🎨 **Image Colorization** | Deep learning project for converting grayscale images into colorized outputs. |
+| 📊 **Customer Shopping Analysis** | Data analysis and visualization project focused on customer shopping behavior. |
 
 ---
 
@@ -106,18 +73,12 @@ Analysis of customer shopping behavior to discover patterns and useful business 
   <img src="https://streak-stats.demolab.com?user=vedant-4009&theme=tokyonight&hide_border=true&border_radius=12" width="70%" alt="GitHub contribution streak" />
 </p>
 
-> **Reliable stats:** these cards are generated inside this repository by GitHub Actions and refreshed automatically every day.
-
 ---
 
 ## 📈 Contribution Activity
 
 <p align="center">
   <img src="./profile/activity-graph.svg" width="100%" alt="Contribution activity graph" />
-</p>
-
-<p align="center">
-  <i>Contribution activity • regenerated automatically every 12 hours</i>
 </p>
 
 ---
@@ -132,40 +93,7 @@ Analysis of customer shopping behavior to discover patterns and useful business 
   </picture>
 </p>
 
-<p align="center">
-  <i>🐍 Animated from my GitHub contribution graph • updated automatically every day</i>
-</p>
-
 ---
-
-## 💡 What I Build
-
-| Area | What I work on |
-|---|---|
-| 🤖 AI / ML | Classification, prediction, model evaluation |
-| 🧠 Deep Learning | CNNs, transfer learning & fine-tuning |
-| 👁️ Computer Vision | X-ray analysis, image processing & colorization |
-| 📊 Data Science | EDA, visualization & business insights |
-| ✨ Generative AI | Practical AI application patterns |
-| 🚀 Deployment | Turning models into usable applications |
-
----
-
-## 🎯 Current Focus
-
-- Building stronger **end-to-end AI projects**
-- Improving **model evaluation and deployment** skills
-- Learning more about **Generative AI and AI Engineering**
-- Writing cleaner, documented, recruiter-friendly projects
-
----
-
-## 📫 Connect With Me
-
-<p align="center">
-  <a href="https://github.com/vedant-4009"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="https://www.linkedin.com/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-</p>
 
 <div align="center">
 

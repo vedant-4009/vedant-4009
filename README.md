@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=Vedant%20Shinde&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=AI%20%7C%20Machine%20Learning%20%7C%20Computer%20Vision%20%7C%20Generative%20AI&descAlignY=60&descSize=16&color=0:3155a6,50:4c3fa3,100:6b2bb5&waveColor=0:3155a6,100:6b2bb5&animation=twinkling" width="100%" alt="Vedant Shinde animated profile banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=Vedant%20Shinde&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=AI%20%7C%20Machine%20Learning%20%7C%20Computer%20Vision%20%7C%20Deep%20Learning%20%7C%20Generative%20AI&descAlignY=60&descSize=16&color=0:3155a6,50:4c3fa3,100:6b2bb5&waveColor=0:3155a6,100:6b2bb5&animation=twinkling" width="100%" alt="Vedant Shinde animated profile banner" />
 
 <br>
 

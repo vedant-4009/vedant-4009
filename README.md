@@ -1,11 +1,11 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=185&section=header&text=Vedant%20Shinde&fontSize=46&fontColor=ffffff&fontAlignY=42&desc=AI%20%7C%20Machine%20Learning%20%7C%20Full-Stack%20Development&descAlignY=65&descSize=15&color=0:3155a6,100:6b2bb5&animation=twinkling" width="100%" alt="Vedant Shinde profile banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=Vedant%20Shinde&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=AI%20%7C%20Machine%20Learning%20%7C%20Full-Stack%20Development&descAlignY=60&descSize=16&color=0:3155a6,50:4c3fa3,100:6b2bb5&waveColor=0:3155a6,100:6b2bb5&animation=twinkling" width="100%" alt="Vedant Shinde animated profile banner" />
 
 <br>
 
-<a href="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=16&pause=900&color=38BDF8&center=true&vCenter=true&width=650&height=45&duration=55&lines=Developing+Intelligent+Applications;AI+%2F+Machine+Learning+Engineer;Building+End-to-End+Data+%26+AI+Projects;Hackathon+Builder+%7C+Problem+Solver&repeat=true">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=16&pause=900&color=38BDF8&center=true&vCenter=true&width=650&height=45&duration=55&lines=Developing+Intelligent+Applications;AI+%2F+Machine+Learning+Engineer;Building+End-to-End+Data+%26+AI+Projects;Hackathon+Builder+%7C+Problem+Solver&repeat=true" alt="Typing animation" />
+<a href="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&height=45&lines=AI+%26+Machine+Learning+Developer;Building+Practical+AI+Solutions;Exploring+Generative+AI;Developing+Intelligent+Applications;Hackathon+Builder+%7C+Problem+Solver&repeat=true">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&height=45&lines=AI+%26+Machine+Learning+Developer;Building+Practical+AI+Solutions;Exploring+Generative+AI;Developing+Intelligent+Applications;Hackathon+Builder+%7C+Problem+Solver&repeat=true" alt="Typing animation" />
 </a>
 
 <br>
@@ -16,13 +16,16 @@
 <a href="https://github.com/vedant-4009?tab=repositories">
   <img src="https://img.shields.io/badge/PROFILE-555555?style=flat-square&logo=github&logoColor=white" alt="Profile" />
 </a>
-<a href="mailto:vedant.shinde_24uml@sanjivani.edu.in">
+<a href="https://www.linkedin.com/in/vedant-shinde-7b6b6a338">
+  <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="mailto:vedantshinde1302@gmail.com">
   <img src="https://img.shields.io/badge/EMAIL-555555?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
 </a>
 <a href="https://github.com/vedant-4009?tab=projects">
   <img src="https://img.shields.io/badge/PROJECTS-1683D8?style=flat-square&logo=github&logoColor=white" alt="Projects" />
 </a>
-<a href="mailto:vedant.shinde_24uml@sanjivani.edu.in?subject=Hello%20Vedant">
+<a href="mailto:vedantshinde1302@gmail.com?subject=Hello%20Vedant">
   <img src="https://img.shields.io/badge/CONTACT-E74C3C?style=flat-square&logo=gmail&logoColor=white" alt="Contact" />
 </a>
 

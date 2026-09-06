@@ -1,152 +1,161 @@
 <div align="center">
-  <img src="./assets/profile-banner.png" alt="Vedant Shinde profile banner" width="100%"/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=Vedant%20Shinde&fontSize=52&fontAlignY=35&desc=AI%20%2F%20ML%20Engineer%20%7C%20Data%20Science%20%7C%20Deep%20Learning&descAlignY=58&animation=fadeIn&fontColor=ffffff&color=0:7c3aed,100:2563eb" width="100%" alt="Vedant Shinde live profile banner" />
+
+<h3>Building practical AI systems from data → models → applications → deployment</h3>
+
+<p>
+  <a href="https://github.com/vedant-4009"><img src="https://img.shields.io/badge/GitHub-vedant--4009-181717?style=for-the-badge&logo=github" alt="GitHub" /></a>
+  <img src="https://komarev.com/ghpvc/?username=vedant-4009&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS" alt="Profile views" />
+</p>
+
 </div>
-
-<h1 align="center">Hi, I'm Vedant Shinde 👋</h1>
-
-<p align="center">
-  <strong>AI / ML Engineer • Data Science • Deep Learning • Computer Vision</strong>
-</p>
-
-<p align="center">
-  I build practical AI systems from data and model development to evaluation, applications, and deployment.
-</p>
-
-<p align="center">
-  <a href="https://github.com/vedant-4009"><img src="https://img.shields.io/badge/GitHub-vedant--4009-181717?style=for-the-badge&logo=github" alt="GitHub"/></a>
-  <a href="https://www.linkedin.com/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/></a>
-</p>
 
 ---
 
-## 🚀 About Me
+## 👨‍💻 About Me
 
-- 🎯 Focused on **Machine Learning, Deep Learning, Computer Vision, and Generative AI**
-- 🧠 Interested in building AI applications that solve real-world problems
-- 🔬 Comfortable with model training, transfer learning, evaluation, and experimentation
-- ⚙️ Learning and working toward production-ready AI engineering and deployment
-- 💡 Engineering mindset: **Build → Evaluate → Improve → Deploy**
+I'm **Vedant Shinde**, an AI/ML-focused developer interested in building useful, measurable, and deployable intelligent applications.
+
+- 🤖 Machine Learning, Deep Learning & Computer Vision
+- 🧠 Transfer Learning, Model Training & Evaluation
+- 📊 Data Analysis and practical problem solving
+- 🚀 Streamlit, Supabase and AI application deployment
+- 💻 Python, SQL and Java
+- 🎯 Currently improving my skills in **AI Engineering and Generative AI**
+
+> **Build → Evaluate → Improve → Deploy**
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Programming & Data
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-
-### AI / Machine Learning
-
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
-![Scikit Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-
-### Application & Deployment
-
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,sql,tensorflow,opencv,pytorch,sklearn,numpy,pandas,streamlit,supabase,git,github,vscode&perline=7" alt="Tech stack" />
+</p>
 
 ---
 
 ## ⭐ Featured Projects
 
+<table>
+<tr>
+<td width="50%" valign="top">
+
 ### 🦴 Fracture Detection AI
 
 **MobileNetV2 · TensorFlow · Streamlit · Supabase**
 
-AI-assisted bone X-ray classification application built with transfer learning and fine-tuning. The project includes model evaluation, authentication, and deployment.
+AI-assisted bone X-ray classification system using transfer learning and fine-tuning, with authentication and deployment.
 
-| Metric | Result |
-|---|---:|
-| Test Accuracy | **73.50%** |
-| Fracture Recall | **78.06%** |
-| Held-out Test Images | **600** |
-| Input Size | **224 × 224** |
+**73.50% Test Accuracy**  
+**78.06% Fracture Recall**  
+**600 Held-out Test Images**
 
-**Architecture:** MobileNetV2  •  **Task:** Binary X-ray Classification  •  **Auth:** Supabase  •  **Deployment:** Streamlit Community Cloud
+<a href="https://github.com/vedant-4009/fracture-detection-cnn">View Repository →</a>
 
-🔗 [Source Code](https://github.com/vedant-4009/fracture-detection-cnn)
-
----
+</td>
+<td width="50%" valign="top">
 
 ### 🏥 MediScan AI
 
 **AI · Machine Learning · JavaScript**
 
-A medical X-ray focused AI application exploring practical intelligent-application development and user-facing workflows.
+Medical X-ray focused intelligent application exploring practical AI workflows and user-facing development.
 
-🔗 [Source Code](https://github.com/vedant-4009/mediscan-ai)
+<a href="https://github.com/vedant-4009/mediscan-ai">View Repository →</a>
 
----
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
 ### 🎨 Image Colorization
 
 **Deep Learning · Computer Vision**
 
-A computer vision project focused on converting grayscale images into colorized outputs using deep learning techniques.
+Project focused on converting grayscale images into colorized outputs using deep learning techniques.
 
-🔗 [Source Code](https://github.com/vedant-4009/Image-colorization-project)
+<a href="https://github.com/vedant-4009/Image-colorization-project">View Repository →</a>
 
----
+</td>
+<td width="50%" valign="top">
 
 ### 📊 Customer Shopping Analysis
 
 **Python · Data Analysis · Visualization**
 
-A data-analysis project focused on exploring customer shopping behavior and extracting useful business insights from data.
+Analysis of customer shopping behavior to discover patterns and useful business insights.
 
-🔗 [Source Code](https://github.com/vedant-4009/Customer-Shopping-Analysis)
+<a href="https://github.com/vedant-4009/Customer-Shopping-Analysis">View Repository →</a>
 
----
-
-### 🧩 Daily Problems
-
-**Python · DSA · Problem Solving**
-
-A collection of programming practice covering algorithms, data structures, and consistent problem solving.
-
-🔗 [Source Code](https://github.com/vedant-4009/Daily-Problems)
+</td>
+</tr>
+</table>
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vedant-4009&show_icons=true&hide_border=true&rank_icon=github" height="165" alt="Vedant's GitHub statistics"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vedant-4009&layout=compact&hide_border=true" height="165" alt="Vedant's top languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=vedant-4009&show_icons=true&hide_border=true&rank_icon=github&theme=transparent" height="180" alt="GitHub statistics" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vedant-4009&layout=donut&hide_border=true&theme=transparent" height="180" alt="Top languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vedant-4009&hide_border=true&theme=transparent" alt="GitHub contribution streak" />
+</p>
+
+---
+
+## 📈 Contribution Activity
+
+<p align="center">
+  <a href="https://github.com/vedant-4009">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=vedant-4009&theme=github-dark&hide_border=true&area=true&custom_title=Vedant%20Shinde%20-%20Contribution%20Activity" width="100%" alt="Contribution activity graph" />
+  </a>
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vedant-4009/vedant-4009/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vedant-4009/vedant-4009/output/github-contribution-grid-snake.svg" />
+    <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/vedant-4009/vedant-4009/output/github-contribution-grid-snake.svg" width="100%" />
+  </picture>
+</p>
+
+<p align="center">
+  <i>🐍 The snake automatically updates from my GitHub contribution graph.</i>
 </p>
 
 ---
 
 ## 🎯 Current Focus
 
-```text
-Machine Learning       ███████████████████░  95%
-Deep Learning          ██████████████████░░  90%
-Computer Vision        ██████████████████░░  90%
-Data Science           █████████████████░░░  85%
-Generative AI          ███████████████░░░░░  75%
-Deployment             ██████████████░░░░░░  70%
-```
-
-> My goal is to build AI systems that are **measurable, useful, and deployable**.
+| Area | Focus |
+|---|---|
+| 🤖 Machine Learning | Model development & evaluation |
+| 🧠 Deep Learning | CNNs, transfer learning & fine-tuning |
+| 👁️ Computer Vision | Image classification & processing |
+| 📊 Data Science | Analysis, visualization & insights |
+| ✨ Generative AI | Learning practical AI application patterns |
+| 🚀 Deployment | Turning models into usable applications |
 
 ---
 
 ## 📫 Connect With Me
 
 <p align="center">
-  <a href="https://github.com/vedant-4009">GitHub</a> •
-  <a href="https://www.linkedin.com/">LinkedIn</a>
+  <a href="https://github.com/vedant-4009"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://www.linkedin.com/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </p>
 
-<p align="center">
-  <i>Build • Evaluate • Improve • Deploy</i>
-</p>
+<div align="center">
+
+**Build • Evaluate • Improve • Deploy**
+
+</div>

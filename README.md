@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&section=header&text=Vedant%20Shinde&fontSize=58&fontAlignY=36&desc=AI%20%2F%20ML%20Engineer%20%7C%20Data%20Science%20%7C%20Deep%20Learning&descAlignY=59&animation=twinkling&fontColor=ffffff&color=gradient&customColorList=6,12,20,24,30" width="100%" alt="Vedant Shinde animated profile banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&section=header&text=VEDANT%20SHINDE&fontSize=60&fontAlignY=35&desc=AI%20%2F%20ML%20ENGINEER%20%20%E2%80%A2%20%20DATA%20SCIENCE%20%20%E2%80%A2%20%20DEEP%20LEARNING&descAlignY=58&animation=twinkling&fontColor=ffffff&color=0:111827,45:4c1d95,75:6d28d9,100:2563eb&stroke=8b5cf6&strokeWidth=1" width="100%" alt="Vedant Shinde live animated profile banner" />
 
 <h3>Building practical AI systems from data → models → applications → deployment</h3>
 
@@ -98,22 +98,26 @@ Analysis of customer shopping behavior to discover patterns and useful business 
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vedant-4009&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight&cache_seconds=86400" height="180" alt="GitHub statistics" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vedant-4009&layout=donut&hide_border=true&theme=tokyonight&langs_count=6&cache_seconds=86400" height="180" alt="Top languages" />
+  <img src="./profile/stats.svg" width="48%" alt="GitHub statistics" />
+  <img src="./profile/top-langs.svg" width="48%" alt="Top languages" />
 </p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=vedant-4009&theme=tokyonight&hide_border=true&border_radius=12" width="70%" alt="GitHub contribution streak" />
 </p>
 
+> **Reliable stats:** the statistics and language cards above are generated inside this repository by GitHub Actions instead of depending on a public stats-rendering endpoint. They update automatically every day. citeturn1search0turn1search9
+
 ---
 
 ## 📈 Contribution Activity
 
 <p align="center">
-  <a href="https://github.com/vedant-4009">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=vedant-4009&bg_color=0d1117&color=a855f7&line=a855f7&point=ffffff&area=true&hide_border=true&radius=10&custom_title=Vedant%20Shinde%20-%20Contribution%20Activity" width="100%" alt="Contribution activity graph" />
-  </a>
+  <img src="./profile/activity-graph.svg" width="100%" alt="Contribution activity graph" />
+</p>
+
+<p align="center">
+  <i>Live contribution activity • regenerated automatically every 12 hours</i>
 </p>
 
 ---
@@ -134,16 +138,25 @@ Analysis of customer shopping behavior to discover patterns and useful business 
 
 ---
 
+## 💡 What I Build
+
+| Area | What I work on |
+|---|---|
+| 🤖 AI / ML | Classification, prediction, model evaluation |
+| 🧠 Deep Learning | CNNs, transfer learning & fine-tuning |
+| 👁️ Computer Vision | X-ray analysis, image processing & colorization |
+| 📊 Data Science | EDA, visualization & business insights |
+| ✨ Generative AI | Practical AI application patterns |
+| 🚀 Deployment | Turning models into usable applications |
+
+---
+
 ## 🎯 Current Focus
 
-| Area | Focus |
-|---|---|
-| 🤖 Machine Learning | Model development & evaluation |
-| 🧠 Deep Learning | CNNs, transfer learning & fine-tuning |
-| 👁️ Computer Vision | Image classification & processing |
-| 📊 Data Science | Analysis, visualization & insights |
-| ✨ Generative AI | Learning practical AI application patterns |
-| 🚀 Deployment | Turning models into usable applications |
+- Building stronger **end-to-end AI projects**
+- Improving **model evaluation and deployment** skills
+- Learning more about **Generative AI and AI Engineering**
+- Writing cleaner, documented, recruiter-friendly projects
 
 ---
 

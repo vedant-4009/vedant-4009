@@ -2,177 +2,151 @@
   <img src="./assets/profile-banner.png" alt="Vedant Shinde profile banner" width="100%"/>
 </div>
 
-<table>
-<tr>
-<td width="50%" valign="top">
+<h1 align="center">Hi, I'm Vedant Shinde 👋</h1>
 
-ABOUT ME
+<p align="center">
+  <strong>AI / ML Engineer • Data Science • Deep Learning • Computer Vision</strong>
+</p>
 
-Developer focused on Machine Learning, Deep Learning, Generative AI, and Computer Vision.
+<p align="center">
+  I build practical AI systems from data and model development to evaluation, applications, and deployment.
+</p>
 
-I like building projects that move beyond notebooks into working applications, evaluation, authentication, and deployment.
+<p align="center">
+  <a href="https://github.com/vedant-4009"><img src="https://img.shields.io/badge/GitHub-vedant--4009-181717?style=for-the-badge&logo=github" alt="GitHub"/></a>
+  <a href="https://www.linkedin.com/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/></a>
+</p>
 
-Workflow
+---
 
-Data → Model → Evaluation → Application → Deployment
+## 🚀 About Me
 
-</td>
-<td width="50%" valign="top">
+- 🎯 Focused on **Machine Learning, Deep Learning, Computer Vision, and Generative AI**
+- 🧠 Interested in building AI applications that solve real-world problems
+- 🔬 Comfortable with model training, transfer learning, evaluation, and experimentation
+- ⚙️ Learning and working toward production-ready AI engineering and deployment
+- 💡 Engineering mindset: **Build → Evaluate → Improve → Deploy**
 
-CURRENT FOCUS
+---
 
-AI Engineering
+## 🛠️ Tech Stack
 
-Model development
+### Programming & Data
 
-Transfer learning
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 
-Computer vision
+### AI / Machine Learning
 
-Intelligent applications
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 
-Deployment
+### Application & Deployment
 
-Goal
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
-Build AI systems that are usable, measurable, and deployable.
+---
 
-</td>
-</tr>
-</table>
+## ⭐ Featured Projects
 
-FEATURED PROJECTS
+### 🦴 Fracture Detection AI
 
-<table>
-<tr>
-<td width="50%" valign="top">
+**MobileNetV2 · TensorFlow · Streamlit · Supabase**
 
-FRACTURE DETECTION AI
+AI-assisted bone X-ray classification application built with transfer learning and fine-tuning. The project includes model evaluation, authentication, and deployment.
 
-MobileNetV2 · TensorFlow · Streamlit · Supabase
+| Metric | Result |
+|---|---:|
+| Test Accuracy | **73.50%** |
+| Fracture Recall | **78.06%** |
+| Held-out Test Images | **600** |
+| Input Size | **224 × 224** |
 
-AI-assisted bone X-ray classification application with public deployment and multi-user authentication.
+**Architecture:** MobileNetV2  •  **Task:** Binary X-ray Classification  •  **Auth:** Supabase  •  **Deployment:** Streamlit Community Cloud
 
-73.50% Test Accuracy
-78.06% Fracture Recall
-600 Held-out Test Images
+🔗 [Source Code](https://github.com/vedant-4009/fracture-detection-cnn)
 
-Live Demo ↗
-Source Code ↗
+---
 
-</td>
+### 🏥 MediScan AI
 
-<td width="50%" valign="top">
+**AI · Machine Learning · JavaScript**
 
-MEDISCAN AI
+A medical X-ray focused AI application exploring practical intelligent-application development and user-facing workflows.
 
-AI · ML · JavaScript
+🔗 [Source Code](https://github.com/vedant-4009/mediscan-ai)
 
-AI-focused medical X-ray application exploring intelligent application concepts and practical software development.
+---
 
-Repository ↗
+### 🎨 Image Colorization
 
-</td>
-</tr>
+**Deep Learning · Computer Vision**
 
-<tr>
-<td width="50%" valign="top">
+A computer vision project focused on converting grayscale images into colorized outputs using deep learning techniques.
 
-IMAGE COLORIZATION
+🔗 [Source Code](https://github.com/vedant-4009/Image-colorization-project)
 
-Deep Learning · Computer Vision
+---
 
-Project focused on converting grayscale images into colorized outputs.
+### 📊 Customer Shopping Analysis
 
-Repository ↗
+**Python · Data Analysis · Visualization**
 
-</td>
+A data-analysis project focused on exploring customer shopping behavior and extracting useful business insights from data.
 
-<td width="50%" valign="top">
+🔗 [Source Code](https://github.com/vedant-4009/Customer-Shopping-Analysis)
 
-DAILY PROBLEMS
+---
 
-Python · DSA · Problem Solving
+### 🧩 Daily Problems
 
-Programming practice covering algorithms, data structures, and consistent problem solving.
+**Python · DSA · Problem Solving**
 
-Repository ↗
+A collection of programming practice covering algorithms, data structures, and consistent problem solving.
 
-</td>
-</tr>
-</table>
+🔗 [Source Code](https://github.com/vedant-4009/Daily-Problems)
 
-TECH STACK
+---
 
-Area
+## 📈 GitHub Stats
 
-Tools
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vedant-4009&show_icons=true&hide_border=true&rank_icon=github" height="165" alt="Vedant's GitHub statistics"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vedant-4009&layout=compact&hide_border=true" height="165" alt="Vedant's top languages"/>
+</p>
 
-Programming
+---
 
-Python · Java · SQL
+## 🎯 Current Focus
 
-AI / ML
+```text
+Machine Learning       ███████████████████░  95%
+Deep Learning          ██████████████████░░  90%
+Computer Vision        ██████████████████░░  90%
+Data Science           █████████████████░░░  85%
+Generative AI          ███████████████░░░░░  75%
+Deployment             ██████████████░░░░░░  70%
+```
 
-TensorFlow · Keras · scikit-learn · OpenCV · NumPy · MobileNetV2
+> My goal is to build AI systems that are **measurable, useful, and deployable**.
 
-Application
+---
 
-Streamlit · Supabase
+## 📫 Connect With Me
 
-Development
+<p align="center">
+  <a href="https://github.com/vedant-4009">GitHub</a> •
+  <a href="https://www.linkedin.com/">LinkedIn</a>
+</p>
 
-Git · GitHub · VS Code
-
-Focus
-
-Deep Learning · Computer Vision · Generative AI · Deployment
-
-ENGINEERING MINDSET
-
-BUILD
-  ├── Understand the problem
-  ├── Prepare the data
-  └── Train the model
-
-EVALUATE
-  ├── Measure performance
-  ├── Inspect errors
-  └── Improve generalization
-
-DEPLOY
-  ├── Build the application
-  ├── Add authentication
-  └── Ship a usable system
-
-FLAGSHIP PROJECT
-
-FRACTURE DETECTION AI — QUICK VIEW
-
-<table>
-<tr>
-<td align="center"><strong>73.50%</strong><br/>Test Accuracy</td>
-<td align="center"><strong>78.06%</strong><br/>Fracture Recall</td>
-<td align="center"><strong>600</strong><br/>Test Images</td>
-<td align="center"><strong>224×224</strong><br/>Input</td>
-</tr>
-</table>
-
-Architecture: MobileNetV2
-Training: Transfer Learning + Fine-Tuning
-Task: Binary X-ray Classification
-Auth: Supabase Email/Password
-Deployment: Streamlit Community Cloud
-
-Explore Fracture Detection AI ↗
-
-CONNECT
-
-<div align="center">
-
-GitHub Profile   •  
-Live Application
-
-BUILD • EVALUATE • DEPLOY • IMPROVE
-
-</div>
+<p align="center">
+  <i>Build • Evaluate • Improve • Deploy</i>
+</p>

@@ -106,7 +106,7 @@ Analysis of customer shopping behavior to discover patterns and useful business 
   <img src="https://streak-stats.demolab.com?user=vedant-4009&theme=tokyonight&hide_border=true&border_radius=12" width="70%" alt="GitHub contribution streak" />
 </p>
 
-> **Reliable stats:** the statistics and language cards above are generated inside this repository by GitHub Actions instead of depending on a public stats-rendering endpoint. They update automatically every day. citeturn1search0turn1search9
+> **Reliable stats:** these cards are generated inside this repository by GitHub Actions and refreshed automatically every day.
 
 ---
 
@@ -117,7 +117,7 @@ Analysis of customer shopping behavior to discover patterns and useful business 
 </p>
 
 <p align="center">
-  <i>Live contribution activity • regenerated automatically every 12 hours</i>
+  <i>Contribution activity • regenerated automatically every 12 hours</i>
 </p>
 
 ---

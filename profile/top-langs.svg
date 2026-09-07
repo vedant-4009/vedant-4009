@@ -126,14 +126,14 @@
     <g class="stagger" style="animation-delay: 450ms">
       <circle cx="5" cy="6" r="5" fill="#DA5B0B" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Jupyter Notebook 91.31%
+        Jupyter Notebook 91.28%
       </text>
     </g>
   </g><g transform="translate(0, 32)">
     <g class="stagger" style="animation-delay: 600ms">
       <circle cx="5" cy="6" r="5" fill="#3572A5" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Python 3.96%
+        Python 3.99%
       </text>
     </g>
   </g><g transform="translate(0, 64)">
@@ -172,8 +172,8 @@
        <g class="stagger" style="animation-delay: 600ms">
         <path
           data-testid="lang-donut"
-          size="91.31"
-          d="M 87.24077270324231 68.2391138112475 A 56.66666666666667 56.66666666666667 0 1 0 116.66666666666667 60"
+          size="91.28"
+          d="M 87.14954124666161 68.29466631469856 A 56.66666666666667 56.66666666666667 0 1 0 116.66666666666667 60"
           stroke="#DA5B0B"
           fill="none"
           stroke-width="12">
@@ -183,8 +183,8 @@
        <g class="stagger" style="animation-delay: 700ms">
         <path
           data-testid="lang-donut"
-          size="3.96"
-          d="M 100.07245618737687 62.484166819574526 A 56.66666666666667 56.66666666666667 0 0 0 87.24077270324231 68.2391138112475"
+          size="3.99"
+          d="M 100.07245618737687 62.484166819574526 A 56.66666666666667 56.66666666666667 0 0 0 87.14954124666161 68.29466631469856"
           stroke="#3572A5"
           fill="none"
           stroke-width="12">
